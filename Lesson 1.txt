@@ -1,0 +1,15 @@
+<!DOCTYPE HTML />
+<html>
+ <head>
+  <meta  content="text/html; charset=utf-8">
+  <title> Список любимых напитков </title>
+ </head>
+ <body>
+  <dev><strong>Безалкогольные напитки </strong></dev>
+  <ol>
+    <li> Вода без газа </li>
+    <li>  Сoca-Cola со Льдом </li>
+    <li> Молочный коктейль </li>
+  </ol>
+ </body>
+</html>
